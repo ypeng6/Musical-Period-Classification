@@ -51,6 +51,6 @@ This project requires the following R libraries:
 - multiROC: used for creating ROC curves
 
 #### Credits
-This project was developed as part of STAT 447 at the University of British Columbia.
+This project was developed as part of the STAT Computing Capstone Project at the University of British Columbia.
 
 - Contributors: Yufei Cai, Meiying Ding, Yulong Peng
